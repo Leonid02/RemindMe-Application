@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">RmindMe</string>
+    <string name="app_name">RmindMe Beta</string>
     <string name="txt01">Hello</string>
+    <string name="search_Title">Search</string>
 </resources>
